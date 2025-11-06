@@ -8,6 +8,7 @@ for(int j=1;j<=number.length;j++){
         	max=number[i];
 }
 		if(number[i]<min){
-        	min
-System.out.println("vowels:"+count);
+        	min=number[j];}}
+System.out.println("Maximun:"+max);
+System.out.println("Minimun:"+min);
 }}
